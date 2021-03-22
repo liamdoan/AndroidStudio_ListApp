@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListApp</string>
+    <string-array name="items">
+        <item>Peach</item>
+        <item>tomato</item>
+        <item>squash</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>0.9£</item>
+        <item>1.4£</item>
+        <item>0.89£</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Peach from Helsinki</item>
+        <item>Tomato from Tampere</item>
+        <item>Squash from Turku</item>
+    </string-array>
+</resources>
